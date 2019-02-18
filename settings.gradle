@@ -1,0 +1,4 @@
+rootProject.name = 'vertx-aws-lambda-parent'
+
+include ':vertx-aws-lambda'
+include ':vertx-aws-lambda-sample-app'
